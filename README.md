@@ -20,3 +20,9 @@
 -  identities: 4101
 -  images: 32621 (train) + 11659 (query) + 82161 (gallery)
 -  cameras: 15
+
+#### CAVIAR
+- URL: https://lorisbaz.github.io/caviar4reid.html
+-  identities: 72
+-  images: 1220
+-  cameras: 2
